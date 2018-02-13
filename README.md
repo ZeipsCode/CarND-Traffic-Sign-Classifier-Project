@@ -66,7 +66,7 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][new_images/30.jpg] ![alt text][image5] ![alt text][image6] 
+![alt text][https://github.com/dzeip87/CarND-Traffic-Sign-Classifier-Project/blob/master/new_images/30.jpg] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
 
 
