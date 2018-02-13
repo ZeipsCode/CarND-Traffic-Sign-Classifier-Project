@@ -66,8 +66,11 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][https://github.com/dzeip87/CarND-Traffic-Sign-Classifier-Project/blob/master/new_images/30.jpg] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+![alt text][https://github.com/dzeip87/CarND-Traffic-Sign-Classifier-Project/blob/master/new_images/30.jpg] 
+![alt text][https://github.com/dzeip87/CarND-Traffic-Sign-Classifier-Project/blob/master/new_images/60.jpg] 
+![alt text][https://github.com/dzeip87/CarND-Traffic-Sign-Classifier-Project/blob/master/new_images/70.jpg] 
+![alt text][https://github.com/dzeip87/CarND-Traffic-Sign-Classifier-Project/blob/master/new_images/Yield.jpg] 
+![alt text][https://github.com/dzeip87/CarND-Traffic-Sign-Classifier-Project/blob/master/new_images/keep_right.jpg]
 
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
