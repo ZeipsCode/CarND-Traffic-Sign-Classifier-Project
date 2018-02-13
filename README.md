@@ -66,7 +66,7 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
+![alt text][new_images/30.jpg] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
 
 
